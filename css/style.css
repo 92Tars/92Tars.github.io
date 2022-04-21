@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap');
+head
+{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+body
+{
+    font-family: 'Noto Sans KR', sans-serif;
+    line-height: 0.75em;
+}
+footer
+{
+    font-family: 'Noto Sans KR', sans-serif;
+    line-height: 1.25em;
+}
+
+p{line-height: 0.5em;}
+h1{line-height: 0.5em;}
+h2{line-height: 0.5em;}
+h3{line-height: 0.5em;}
+h4{line-height: 0.5em;}
+h5{line-height: 0.5em;}
+h6{line-height: 0.5em;}
